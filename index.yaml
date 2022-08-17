@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-17T15:01:06.592538139-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 26c5b7ee55979a8fd18d423570b01b29a4afc6eacd1e17f03877be960d5bfc87
+    name: app1
+    type: application
+    urls:
+    - https://github.com/adilson-cruz/my-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-17T15:01:07.008163398-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 2dd2de350ab448689c64560679d926a5600ca6a4403a34fe1f941312a2d93b47
+    name: app2
+    type: application
+    urls:
+    - https://github.com/adilson-cruz/my-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-17T15:01:07.008184586-04:00"
